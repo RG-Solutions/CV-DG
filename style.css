@@ -1,0 +1,22 @@
+#Inicio {
+    color: rgb(3, 87, 161);
+    font-size: 5em;
+    font-family: 'Encode Sans Expanded', sans-serif;
+}
+#Inicio:hover  {
+
+    color: rgb(181, 215, 245);
+}
+#Nombre {
+    color: rgb(3, 87, 161);
+    font-size: 3em;
+    font-family: 'Encode Sans Expanded', sans-serif;
+}
+#Nombre:hover{
+
+    color: rgb(181, 215, 245);
+}
+h3 {
+    font-family: 'Encode Sans Expanded', sans-serif;
+
+}
