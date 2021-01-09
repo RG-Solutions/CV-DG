@@ -1,3 +1,7 @@
+
+body{   
+    background-color: slategray;
+}
 #Inicio {
     color: rgb(3, 87, 161);
     font-size: 5em;
@@ -26,6 +30,20 @@ h3 {
     border: 1vmax double hsla(0, 0%, 0%, 0.685);
     box-shadow: 0.5em 0.5em 1em rgb(104, 7, 7);
     margin: 1%;
+}
+.cara img{
+    position:fixed;
+    object-fit: cover;
+    width: 10%;
+    left: 90%;
+    border-radius: 100%;
+    transition: all 1s;
+    object-fit: cover;
+}
+.cara img:hover{
+    width: 20%;
+    left: 80%;
+    border-style: solid rgba(0, 0, 0, 0.897);
 }
 p {
     padding: 2%;
